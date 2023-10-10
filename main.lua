@@ -44,15 +44,6 @@ function sysCall_threadmain()
             sim.setJointTargetVelocity(motorRight,vRight)
         end
     end
-
-    -- Put your main loop here, e.g.:
-    --
-    -- while sim.getSimulationState()~=sim.simulation_advancing_abouttostop do
-    --     local p=sim.getObjectPosition(objHandle,-1)
-    --     p[1]=p[1]+0.001
-    --     sim.setObjectPosition(objHandle,-1,p)
-    --     sim.switchThread() -- resume in next simulation step
-    -- end
 end
 
 function sysCall_cleanup()
