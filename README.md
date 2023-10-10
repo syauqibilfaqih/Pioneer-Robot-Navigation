@@ -1,6 +1,8 @@
 # Pioneer-Robot-Navigation
 A straight-forward code to navigate a differential drive mobile robot to a goal position in CoppeliaSim
 
+![image](https://github.com/syauqibilfaqih/Pioneer-Robot-Navigation/assets/70939903/0313d6fc-8e6d-4372-86f9-66fa420baa97)
+
 This system was developed based on a course titled "Control of Mobile Robots" by Dr. Magnus Egerstedt from Georgia Institute of Technology. Instead of using Matlab Simulink, the model was implemented on Pioneer 3-DX mobile robotic platform simulation on CoppeliaSim Edu.
 
 ![image](https://github.com/syauqibilfaqih/Pioneer-Robot-Navigation/assets/70939903/a7aab2c8-7f77-4747-a50c-f26668a16aa0)
@@ -27,7 +29,8 @@ The code is simply navigating the robot by the following model
 
 Here is the example demo video:
 
-
+[![Watch the video](https://img.youtube.com/vi/lC1HWtHNNpE/hqdefault.jpg)](https://www.youtube.com/embed/lC1HWtHNNpE)
+[<img src="https://img.youtube.com/vi/lC1HWtHNNpE/hqdefault.jpg" width="600" height="300"/>](https://www.youtube.com/embed/lC1HWtHNNpE)
 
 Reference :
 Egerstedt, M. (). Control of Mobile Robots Module 2 Mobile Robots [PowerPoint slides]. School of Electrical and Computer Engineering, Georgia Institute of Technology. www.coursera.org
