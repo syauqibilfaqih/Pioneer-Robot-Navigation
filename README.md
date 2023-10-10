@@ -29,7 +29,7 @@ The code is simply navigating the robot by the following model
 
 Here is the example demo video:
 
-[![Watch the video](https://img.youtube.com/vi/lC1HWtHNNpE/hqdefault.jpg)](https://www.youtube.com/embed/lC1HWtHNNpE)
+[![Watch the video](https://img.youtube.com/vi/lC1HWtHNNpE/hqdefault.jpg)]
 
 Reference :
 Egerstedt, M. (). Control of Mobile Robots Module 2 Mobile Robots [PowerPoint slides]. School of Electrical and Computer Engineering, Georgia Institute of Technology. www.coursera.org
